@@ -1,17 +1,17 @@
 {
-    "name": "stephenjude/filament-feature-flags",
+    "name": "patipattip/filament-feature-flags",
     "description": "Filament implementation of feature flags and segmentation with Laravel Pennant.",
     "keywords": [
-        "stephenjude",
+        "patipattip",
         "laravel",
         "filament-feature-flags"
     ],
-    "homepage": "https://github.com/stephenjude/filament-feature-flags",
+    "homepage": "https://github.com/patipattip/filament-feature-flags",
     "license": "MIT",
     "authors": [
         {
-            "name": "stephenjude",
-            "email": "stephenjudesuccess@gmail.com",
+            "name": "Patipat Tippayasirin",
+            "email": "patipat.tip@gmail.com",
             "role": "Developer"
         }
     ],
